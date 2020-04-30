@@ -10,8 +10,9 @@ A restful web API for an event hosting platform.
 - Install Git LFS.
 
 # How to run
--Click on `Clone or Download` button.
--Click on `Open in Desktop`.
+
+- Click on `Clone or Download` button.
+- Click on `Open in Desktop`.
 - Now the repository would open in Github desktop.
 - In Github Desktop click on Repository 
 - From the drop down menu select show in explorer.
