@@ -1,5 +1,5 @@
 # lowesForGeeks
-A restful web API for an event hosting platform.
+A restful web API for an event hosting platform using Spring Boot, Maria DB server, JPA and Hibernate.
 
 # Requirements
 - Install Java 1.8 or higher.
