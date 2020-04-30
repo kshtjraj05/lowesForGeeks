@@ -8,6 +8,8 @@ A restful web API for an event hosting platform.
 - Install Git Desktop.
 - Login to Git Desktop using github id and password.
 - Install Git LFS.
+- Install a sql database server(preferably MariaDb) with user: root and password : admin on Port 3306.
+- If a database server is already installed on port 3306, then on that server run the following query : `CREATE USER 'root'@'localhost' IDENTIFIED BY 'admin';` if the root user is not created. Otherwise change it's password using the following query: `SET PASSWORD FOR 'root'@'localhost' = PASSWORD('mypass');`
 
 # How to run
 
