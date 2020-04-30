@@ -24,6 +24,10 @@ A restful web API for an event hosting platform using Spring Boot, Maria DB serv
 - After the command finishes exectuing, close the git bash.
 - Open command prompt in the same directory
 - Type java -jar lowesForGeeks-0.0.1-SNAPSHOT.jar
+- If the jar file does not run :
+-- Install IntelliJ Community Edition
+-- Open the loweforgeeks folder as IntelliJ Community Edition Project
+-- Run the project.
 
   # Runtime
   - Once the application starts running, in the CMD or terminal, you would see "Tomcat started on port(s): `your port no.` " in the second last line.
