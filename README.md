@@ -4,7 +4,7 @@ A restful web API for an event hosting platform.
 # Requirements
 - Install Java 1.8 or higher.
 - Add java to environment variables.
-- Install Git Bash.
+- Install Git.
 - Install Git Desktop.
 - Login to Git Desktop using github id and password.
 - Install Git LFS.
