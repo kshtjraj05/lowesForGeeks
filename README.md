@@ -3,7 +3,7 @@ A restful web API for an event hosting platform using Spring Boot, Maria DB serv
 
 # Requirements
 - Install Java 1.8 or higher.
-- Add java to environment variables.
+- Add java to PATH environment variables.
 - Install Git.
 - Install Git Desktop.
 - Login to Git Desktop using github id and password.
